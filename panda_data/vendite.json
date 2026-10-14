@@ -1,0 +1,6002 @@
+[
+  {
+    "ID": 1,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 23.0,
+    "Data_Acquisto": "2025-01-04"
+  },
+  {
+    "ID": 2,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 36.01,
+    "Data_Acquisto": "2025-01-07"
+  },
+  {
+    "ID": 3,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 49.02,
+    "Data_Acquisto": "2025-01-10"
+  },
+  {
+    "ID": 4,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 62.03,
+    "Data_Acquisto": "2025-01-13"
+  },
+  {
+    "ID": 5,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 75.04,
+    "Data_Acquisto": "2025-01-16"
+  },
+  {
+    "ID": 6,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 88.05,
+    "Data_Acquisto": "2025-01-19"
+  },
+  {
+    "ID": 7,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 101.06,
+    "Data_Acquisto": "2025-01-22"
+  },
+  {
+    "ID": 8,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 114.07,
+    "Data_Acquisto": "2025-01-25"
+  },
+  {
+    "ID": 9,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 127.08,
+    "Data_Acquisto": "2025-01-28"
+  },
+  {
+    "ID": 10,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 140.09,
+    "Data_Acquisto": "2025-01-31"
+  },
+  {
+    "ID": 11,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 153.1,
+    "Data_Acquisto": "2025-02-03"
+  },
+  {
+    "ID": 12,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 166.11,
+    "Data_Acquisto": "2025-02-06"
+  },
+  {
+    "ID": 13,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 179.12,
+    "Data_Acquisto": "2025-02-09"
+  },
+  {
+    "ID": 14,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 192.13,
+    "Data_Acquisto": "2025-02-12"
+  },
+  {
+    "ID": 15,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 205.14,
+    "Data_Acquisto": "2025-02-15"
+  },
+  {
+    "ID": 16,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 218.15,
+    "Data_Acquisto": "2025-02-18"
+  },
+  {
+    "ID": 17,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 231.16,
+    "Data_Acquisto": "2025-02-21"
+  },
+  {
+    "ID": 18,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 244.17,
+    "Data_Acquisto": "2025-02-24"
+  },
+  {
+    "ID": 19,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 257.18,
+    "Data_Acquisto": "2025-02-27"
+  },
+  {
+    "ID": 20,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 270.19,
+    "Data_Acquisto": "2025-03-02"
+  },
+  {
+    "ID": 21,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 283.2,
+    "Data_Acquisto": "2025-03-05"
+  },
+  {
+    "ID": 22,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 296.21,
+    "Data_Acquisto": "2025-03-08"
+  },
+  {
+    "ID": 23,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 309.22,
+    "Data_Acquisto": "2025-03-11"
+  },
+  {
+    "ID": 24,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 322.23,
+    "Data_Acquisto": "2025-03-14"
+  },
+  {
+    "ID": 25,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 335.24,
+    "Data_Acquisto": "2025-03-17"
+  },
+  {
+    "ID": 26,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 348.25,
+    "Data_Acquisto": "2025-03-20"
+  },
+  {
+    "ID": 27,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 361.26,
+    "Data_Acquisto": "2025-03-23"
+  },
+  {
+    "ID": 28,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 374.27,
+    "Data_Acquisto": "2025-03-26"
+  },
+  {
+    "ID": 29,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 387.28,
+    "Data_Acquisto": "2025-03-29"
+  },
+  {
+    "ID": 30,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 400.29,
+    "Data_Acquisto": "2025-04-01"
+  },
+  {
+    "ID": 31,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 413.3,
+    "Data_Acquisto": "2025-04-04"
+  },
+  {
+    "ID": 32,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 426.31,
+    "Data_Acquisto": "2025-04-07"
+  },
+  {
+    "ID": 33,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 439.32,
+    "Data_Acquisto": "2025-04-10"
+  },
+  {
+    "ID": 34,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 452.33,
+    "Data_Acquisto": "2025-04-13"
+  },
+  {
+    "ID": 35,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 465.34,
+    "Data_Acquisto": "2025-04-16"
+  },
+  {
+    "ID": 36,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 478.35,
+    "Data_Acquisto": "2025-04-19"
+  },
+  {
+    "ID": 37,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 491.36,
+    "Data_Acquisto": "2025-04-22"
+  },
+  {
+    "ID": 38,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 14.37,
+    "Data_Acquisto": "2025-04-25"
+  },
+  {
+    "ID": 39,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 27.38,
+    "Data_Acquisto": "2025-04-28"
+  },
+  {
+    "ID": 40,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 40.39,
+    "Data_Acquisto": "2025-05-01"
+  },
+  {
+    "ID": 41,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 53.4,
+    "Data_Acquisto": "2025-05-04"
+  },
+  {
+    "ID": 42,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 66.41,
+    "Data_Acquisto": "2025-05-07"
+  },
+  {
+    "ID": 43,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 79.42,
+    "Data_Acquisto": "2025-05-10"
+  },
+  {
+    "ID": 44,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 92.43,
+    "Data_Acquisto": "2025-05-13"
+  },
+  {
+    "ID": 45,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 105.44,
+    "Data_Acquisto": "2025-05-16"
+  },
+  {
+    "ID": 46,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 118.45,
+    "Data_Acquisto": "2025-05-19"
+  },
+  {
+    "ID": 47,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 131.46,
+    "Data_Acquisto": "2025-05-22"
+  },
+  {
+    "ID": 48,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 144.47,
+    "Data_Acquisto": "2025-05-25"
+  },
+  {
+    "ID": 49,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 157.48,
+    "Data_Acquisto": "2025-05-28"
+  },
+  {
+    "ID": 50,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 170.49,
+    "Data_Acquisto": "2025-05-31"
+  },
+  {
+    "ID": 51,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 183.5,
+    "Data_Acquisto": "2025-06-03"
+  },
+  {
+    "ID": 52,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 196.51,
+    "Data_Acquisto": "2025-06-06"
+  },
+  {
+    "ID": 53,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 209.52,
+    "Data_Acquisto": "2025-06-09"
+  },
+  {
+    "ID": 54,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 222.53,
+    "Data_Acquisto": "2025-06-12"
+  },
+  {
+    "ID": 55,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 235.54,
+    "Data_Acquisto": "2025-06-15"
+  },
+  {
+    "ID": 56,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 248.55,
+    "Data_Acquisto": "2025-06-18"
+  },
+  {
+    "ID": 57,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 261.56,
+    "Data_Acquisto": "2025-06-21"
+  },
+  {
+    "ID": 58,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 274.57,
+    "Data_Acquisto": "2025-06-24"
+  },
+  {
+    "ID": 59,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 287.58,
+    "Data_Acquisto": "2025-06-27"
+  },
+  {
+    "ID": 60,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 300.59,
+    "Data_Acquisto": "2025-06-30"
+  },
+  {
+    "ID": 61,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 313.6,
+    "Data_Acquisto": "2025-07-03"
+  },
+  {
+    "ID": 62,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 326.61,
+    "Data_Acquisto": "2025-07-06"
+  },
+  {
+    "ID": 63,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 339.62,
+    "Data_Acquisto": "2025-07-09"
+  },
+  {
+    "ID": 64,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 352.63,
+    "Data_Acquisto": "2025-07-12"
+  },
+  {
+    "ID": 65,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 365.64,
+    "Data_Acquisto": "2025-07-15"
+  },
+  {
+    "ID": 66,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 378.65,
+    "Data_Acquisto": "2025-07-18"
+  },
+  {
+    "ID": 67,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 391.66,
+    "Data_Acquisto": "2025-07-21"
+  },
+  {
+    "ID": 68,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 404.67,
+    "Data_Acquisto": "2025-07-24"
+  },
+  {
+    "ID": 69,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 417.68,
+    "Data_Acquisto": "2025-07-27"
+  },
+  {
+    "ID": 70,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 430.69,
+    "Data_Acquisto": "2025-07-30"
+  },
+  {
+    "ID": 71,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 443.7,
+    "Data_Acquisto": "2025-08-02"
+  },
+  {
+    "ID": 72,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 456.71,
+    "Data_Acquisto": "2025-08-05"
+  },
+  {
+    "ID": 73,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 469.72,
+    "Data_Acquisto": "2025-08-08"
+  },
+  {
+    "ID": 74,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 482.73,
+    "Data_Acquisto": "2025-08-11"
+  },
+  {
+    "ID": 75,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 495.74,
+    "Data_Acquisto": "2025-08-14"
+  },
+  {
+    "ID": 76,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 18.75,
+    "Data_Acquisto": "2025-08-17"
+  },
+  {
+    "ID": 77,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 31.76,
+    "Data_Acquisto": "2025-08-20"
+  },
+  {
+    "ID": 78,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 44.77,
+    "Data_Acquisto": "2025-08-23"
+  },
+  {
+    "ID": 79,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 57.78,
+    "Data_Acquisto": "2025-08-26"
+  },
+  {
+    "ID": 80,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 70.79,
+    "Data_Acquisto": "2025-08-29"
+  },
+  {
+    "ID": 81,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 83.8,
+    "Data_Acquisto": "2025-09-01"
+  },
+  {
+    "ID": 82,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 96.81,
+    "Data_Acquisto": "2025-09-04"
+  },
+  {
+    "ID": 83,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 109.82,
+    "Data_Acquisto": "2025-09-07"
+  },
+  {
+    "ID": 84,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 122.83,
+    "Data_Acquisto": "2025-09-10"
+  },
+  {
+    "ID": 85,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 135.84,
+    "Data_Acquisto": "2025-09-13"
+  },
+  {
+    "ID": 86,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 148.85,
+    "Data_Acquisto": "2025-09-16"
+  },
+  {
+    "ID": 87,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 161.86,
+    "Data_Acquisto": "2025-09-19"
+  },
+  {
+    "ID": 88,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 174.87,
+    "Data_Acquisto": "2025-09-22"
+  },
+  {
+    "ID": 89,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 187.88,
+    "Data_Acquisto": "2025-09-25"
+  },
+  {
+    "ID": 90,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 200.89,
+    "Data_Acquisto": "2025-09-28"
+  },
+  {
+    "ID": 91,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 213.9,
+    "Data_Acquisto": "2025-10-01"
+  },
+  {
+    "ID": 92,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 226.91,
+    "Data_Acquisto": "2025-10-04"
+  },
+  {
+    "ID": 93,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 239.92,
+    "Data_Acquisto": "2025-10-07"
+  },
+  {
+    "ID": 94,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 252.93,
+    "Data_Acquisto": "2025-10-10"
+  },
+  {
+    "ID": 95,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 265.94,
+    "Data_Acquisto": "2025-10-13"
+  },
+  {
+    "ID": 96,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 278.95,
+    "Data_Acquisto": "2025-10-16"
+  },
+  {
+    "ID": 97,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 291.96,
+    "Data_Acquisto": "2025-10-19"
+  },
+  {
+    "ID": 98,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 304.97,
+    "Data_Acquisto": "2025-10-22"
+  },
+  {
+    "ID": 99,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 317.98,
+    "Data_Acquisto": "2025-10-25"
+  },
+  {
+    "ID": 100,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 329.99,
+    "Data_Acquisto": "2025-10-28"
+  },
+  {
+    "ID": 101,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 343.0,
+    "Data_Acquisto": "2025-10-31"
+  },
+  {
+    "ID": 102,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 356.01,
+    "Data_Acquisto": "2025-11-03"
+  },
+  {
+    "ID": 103,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 369.02,
+    "Data_Acquisto": "2025-11-06"
+  },
+  {
+    "ID": 104,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 382.03,
+    "Data_Acquisto": "2025-11-09"
+  },
+  {
+    "ID": 105,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 395.04,
+    "Data_Acquisto": "2025-11-12"
+  },
+  {
+    "ID": 106,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 408.05,
+    "Data_Acquisto": "2025-11-15"
+  },
+  {
+    "ID": 107,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 421.06,
+    "Data_Acquisto": "2025-11-18"
+  },
+  {
+    "ID": 108,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 434.07,
+    "Data_Acquisto": "2025-11-21"
+  },
+  {
+    "ID": 109,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 447.08,
+    "Data_Acquisto": "2025-11-24"
+  },
+  {
+    "ID": 110,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 460.09,
+    "Data_Acquisto": "2025-11-27"
+  },
+  {
+    "ID": 111,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 473.1,
+    "Data_Acquisto": "2025-11-30"
+  },
+  {
+    "ID": 112,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 486.11,
+    "Data_Acquisto": "2025-12-03"
+  },
+  {
+    "ID": 113,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 499.12,
+    "Data_Acquisto": "2025-12-06"
+  },
+  {
+    "ID": 114,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 22.13,
+    "Data_Acquisto": "2025-12-09"
+  },
+  {
+    "ID": 115,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 35.14,
+    "Data_Acquisto": "2025-12-12"
+  },
+  {
+    "ID": 116,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 48.15,
+    "Data_Acquisto": "2025-12-15"
+  },
+  {
+    "ID": 117,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 61.16,
+    "Data_Acquisto": "2025-12-18"
+  },
+  {
+    "ID": 118,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 74.17,
+    "Data_Acquisto": "2025-12-21"
+  },
+  {
+    "ID": 119,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 87.18,
+    "Data_Acquisto": "2025-12-24"
+  },
+  {
+    "ID": 120,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 100.19,
+    "Data_Acquisto": "2025-12-27"
+  },
+  {
+    "ID": 121,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 113.2,
+    "Data_Acquisto": "2025-12-30"
+  },
+  {
+    "ID": 122,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 126.21,
+    "Data_Acquisto": "2025-01-02"
+  },
+  {
+    "ID": 123,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 139.22,
+    "Data_Acquisto": "2025-01-05"
+  },
+  {
+    "ID": 124,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 152.23,
+    "Data_Acquisto": "2025-01-08"
+  },
+  {
+    "ID": 125,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 165.24,
+    "Data_Acquisto": "2025-01-11"
+  },
+  {
+    "ID": 126,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 178.25,
+    "Data_Acquisto": "2025-01-14"
+  },
+  {
+    "ID": 127,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 191.26,
+    "Data_Acquisto": "2025-01-17"
+  },
+  {
+    "ID": 128,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 204.27,
+    "Data_Acquisto": "2025-01-20"
+  },
+  {
+    "ID": 129,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 217.28,
+    "Data_Acquisto": "2025-01-23"
+  },
+  {
+    "ID": 130,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 230.29,
+    "Data_Acquisto": "2025-01-26"
+  },
+  {
+    "ID": 131,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 243.3,
+    "Data_Acquisto": "2025-01-29"
+  },
+  {
+    "ID": 132,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 256.31,
+    "Data_Acquisto": "2025-02-01"
+  },
+  {
+    "ID": 133,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 269.32,
+    "Data_Acquisto": "2025-02-04"
+  },
+  {
+    "ID": 134,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 282.33,
+    "Data_Acquisto": "2025-02-07"
+  },
+  {
+    "ID": 135,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 295.34,
+    "Data_Acquisto": "2025-02-10"
+  },
+  {
+    "ID": 136,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 308.35,
+    "Data_Acquisto": "2025-02-13"
+  },
+  {
+    "ID": 137,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 321.36,
+    "Data_Acquisto": "2025-02-16"
+  },
+  {
+    "ID": 138,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 334.37,
+    "Data_Acquisto": "2025-02-19"
+  },
+  {
+    "ID": 139,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 347.38,
+    "Data_Acquisto": "2025-02-22"
+  },
+  {
+    "ID": 140,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 360.39,
+    "Data_Acquisto": "2025-02-25"
+  },
+  {
+    "ID": 141,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 373.4,
+    "Data_Acquisto": "2025-02-28"
+  },
+  {
+    "ID": 142,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 386.41,
+    "Data_Acquisto": "2025-03-03"
+  },
+  {
+    "ID": 143,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 399.42,
+    "Data_Acquisto": "2025-03-06"
+  },
+  {
+    "ID": 144,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 412.43,
+    "Data_Acquisto": "2025-03-09"
+  },
+  {
+    "ID": 145,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 425.44,
+    "Data_Acquisto": "2025-03-12"
+  },
+  {
+    "ID": 146,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 438.45,
+    "Data_Acquisto": "2025-03-15"
+  },
+  {
+    "ID": 147,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 451.46,
+    "Data_Acquisto": "2025-03-18"
+  },
+  {
+    "ID": 148,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 464.47,
+    "Data_Acquisto": "2025-03-21"
+  },
+  {
+    "ID": 149,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 477.48,
+    "Data_Acquisto": "2025-03-24"
+  },
+  {
+    "ID": 150,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 490.49,
+    "Data_Acquisto": "2025-03-27"
+  },
+  {
+    "ID": 151,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 13.5,
+    "Data_Acquisto": "2025-03-30"
+  },
+  {
+    "ID": 152,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 26.51,
+    "Data_Acquisto": "2025-04-02"
+  },
+  {
+    "ID": 153,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 39.52,
+    "Data_Acquisto": "2025-04-05"
+  },
+  {
+    "ID": 154,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 52.53,
+    "Data_Acquisto": "2025-04-08"
+  },
+  {
+    "ID": 155,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 65.54,
+    "Data_Acquisto": "2025-04-11"
+  },
+  {
+    "ID": 156,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 78.55,
+    "Data_Acquisto": "2025-04-14"
+  },
+  {
+    "ID": 157,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 91.56,
+    "Data_Acquisto": "2025-04-17"
+  },
+  {
+    "ID": 158,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 104.57,
+    "Data_Acquisto": "2025-04-20"
+  },
+  {
+    "ID": 159,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 117.58,
+    "Data_Acquisto": "2025-04-23"
+  },
+  {
+    "ID": 160,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 130.59,
+    "Data_Acquisto": "2025-04-26"
+  },
+  {
+    "ID": 161,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 143.6,
+    "Data_Acquisto": "2025-04-29"
+  },
+  {
+    "ID": 162,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 156.61,
+    "Data_Acquisto": "2025-05-02"
+  },
+  {
+    "ID": 163,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 169.62,
+    "Data_Acquisto": "2025-05-05"
+  },
+  {
+    "ID": 164,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 182.63,
+    "Data_Acquisto": "2025-05-08"
+  },
+  {
+    "ID": 165,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 195.64,
+    "Data_Acquisto": "2025-05-11"
+  },
+  {
+    "ID": 166,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 208.65,
+    "Data_Acquisto": "2025-05-14"
+  },
+  {
+    "ID": 167,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 221.66,
+    "Data_Acquisto": "2025-05-17"
+  },
+  {
+    "ID": 168,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 234.67,
+    "Data_Acquisto": "2025-05-20"
+  },
+  {
+    "ID": 169,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 247.68,
+    "Data_Acquisto": "2025-05-23"
+  },
+  {
+    "ID": 170,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 260.69,
+    "Data_Acquisto": "2025-05-26"
+  },
+  {
+    "ID": 171,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 273.7,
+    "Data_Acquisto": "2025-05-29"
+  },
+  {
+    "ID": 172,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 286.71,
+    "Data_Acquisto": "2025-06-01"
+  },
+  {
+    "ID": 173,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 299.72,
+    "Data_Acquisto": "2025-06-04"
+  },
+  {
+    "ID": 174,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 312.73,
+    "Data_Acquisto": "2025-06-07"
+  },
+  {
+    "ID": 175,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 325.74,
+    "Data_Acquisto": "2025-06-10"
+  },
+  {
+    "ID": 176,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 338.75,
+    "Data_Acquisto": "2025-06-13"
+  },
+  {
+    "ID": 177,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 351.76,
+    "Data_Acquisto": "2025-06-16"
+  },
+  {
+    "ID": 178,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 364.77,
+    "Data_Acquisto": "2025-06-19"
+  },
+  {
+    "ID": 179,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 377.78,
+    "Data_Acquisto": "2025-06-22"
+  },
+  {
+    "ID": 180,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 390.79,
+    "Data_Acquisto": "2025-06-25"
+  },
+  {
+    "ID": 181,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 403.8,
+    "Data_Acquisto": "2025-06-28"
+  },
+  {
+    "ID": 182,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 416.81,
+    "Data_Acquisto": "2025-07-01"
+  },
+  {
+    "ID": 183,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 429.82,
+    "Data_Acquisto": "2025-07-04"
+  },
+  {
+    "ID": 184,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 442.83,
+    "Data_Acquisto": "2025-07-07"
+  },
+  {
+    "ID": 185,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 455.84,
+    "Data_Acquisto": "2025-07-10"
+  },
+  {
+    "ID": 186,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 468.85,
+    "Data_Acquisto": "2025-07-13"
+  },
+  {
+    "ID": 187,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 481.86,
+    "Data_Acquisto": "2025-07-16"
+  },
+  {
+    "ID": 188,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 494.87,
+    "Data_Acquisto": "2025-07-19"
+  },
+  {
+    "ID": 189,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 17.88,
+    "Data_Acquisto": "2025-07-22"
+  },
+  {
+    "ID": 190,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 30.89,
+    "Data_Acquisto": "2025-07-25"
+  },
+  {
+    "ID": 191,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 43.9,
+    "Data_Acquisto": "2025-07-28"
+  },
+  {
+    "ID": 192,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 56.91,
+    "Data_Acquisto": "2025-07-31"
+  },
+  {
+    "ID": 193,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 69.92,
+    "Data_Acquisto": "2025-08-03"
+  },
+  {
+    "ID": 194,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 82.93,
+    "Data_Acquisto": "2025-08-06"
+  },
+  {
+    "ID": 195,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 95.94,
+    "Data_Acquisto": "2025-08-09"
+  },
+  {
+    "ID": 196,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 108.95,
+    "Data_Acquisto": "2025-08-12"
+  },
+  {
+    "ID": 197,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 121.96,
+    "Data_Acquisto": "2025-08-15"
+  },
+  {
+    "ID": 198,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 134.97,
+    "Data_Acquisto": "2025-08-18"
+  },
+  {
+    "ID": 199,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 147.98,
+    "Data_Acquisto": "2025-08-21"
+  },
+  {
+    "ID": 200,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 159.99,
+    "Data_Acquisto": "2025-08-24"
+  },
+  {
+    "ID": 201,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 173.0,
+    "Data_Acquisto": "2025-08-27"
+  },
+  {
+    "ID": 202,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 186.01,
+    "Data_Acquisto": "2025-08-30"
+  },
+  {
+    "ID": 203,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 199.02,
+    "Data_Acquisto": "2025-09-02"
+  },
+  {
+    "ID": 204,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 212.03,
+    "Data_Acquisto": "2025-09-05"
+  },
+  {
+    "ID": 205,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 225.04,
+    "Data_Acquisto": "2025-09-08"
+  },
+  {
+    "ID": 206,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 238.05,
+    "Data_Acquisto": "2025-09-11"
+  },
+  {
+    "ID": 207,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 251.06,
+    "Data_Acquisto": "2025-09-14"
+  },
+  {
+    "ID": 208,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 264.07,
+    "Data_Acquisto": "2025-09-17"
+  },
+  {
+    "ID": 209,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 277.08,
+    "Data_Acquisto": "2025-09-20"
+  },
+  {
+    "ID": 210,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 290.09,
+    "Data_Acquisto": "2025-09-23"
+  },
+  {
+    "ID": 211,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 303.1,
+    "Data_Acquisto": "2025-09-26"
+  },
+  {
+    "ID": 212,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 316.11,
+    "Data_Acquisto": "2025-09-29"
+  },
+  {
+    "ID": 213,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 329.12,
+    "Data_Acquisto": "2025-10-02"
+  },
+  {
+    "ID": 214,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 342.13,
+    "Data_Acquisto": "2025-10-05"
+  },
+  {
+    "ID": 215,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 355.14,
+    "Data_Acquisto": "2025-10-08"
+  },
+  {
+    "ID": 216,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 368.15,
+    "Data_Acquisto": "2025-10-11"
+  },
+  {
+    "ID": 217,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 381.16,
+    "Data_Acquisto": "2025-10-14"
+  },
+  {
+    "ID": 218,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 394.17,
+    "Data_Acquisto": "2025-10-17"
+  },
+  {
+    "ID": 219,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 407.18,
+    "Data_Acquisto": "2025-10-20"
+  },
+  {
+    "ID": 220,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 420.19,
+    "Data_Acquisto": "2025-10-23"
+  },
+  {
+    "ID": 221,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 433.2,
+    "Data_Acquisto": "2025-10-26"
+  },
+  {
+    "ID": 222,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 446.21,
+    "Data_Acquisto": "2025-10-29"
+  },
+  {
+    "ID": 223,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 459.22,
+    "Data_Acquisto": "2025-11-01"
+  },
+  {
+    "ID": 224,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 472.23,
+    "Data_Acquisto": "2025-11-04"
+  },
+  {
+    "ID": 225,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 485.24,
+    "Data_Acquisto": "2025-11-07"
+  },
+  {
+    "ID": 226,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 498.25,
+    "Data_Acquisto": "2025-11-10"
+  },
+  {
+    "ID": 227,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 21.26,
+    "Data_Acquisto": "2025-11-13"
+  },
+  {
+    "ID": 228,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 34.27,
+    "Data_Acquisto": "2025-11-16"
+  },
+  {
+    "ID": 229,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 47.28,
+    "Data_Acquisto": "2025-11-19"
+  },
+  {
+    "ID": 230,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 60.29,
+    "Data_Acquisto": "2025-11-22"
+  },
+  {
+    "ID": 231,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 73.3,
+    "Data_Acquisto": "2025-11-25"
+  },
+  {
+    "ID": 232,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 86.31,
+    "Data_Acquisto": "2025-11-28"
+  },
+  {
+    "ID": 233,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 99.32,
+    "Data_Acquisto": "2025-12-01"
+  },
+  {
+    "ID": 234,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 112.33,
+    "Data_Acquisto": "2025-12-04"
+  },
+  {
+    "ID": 235,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 125.34,
+    "Data_Acquisto": "2025-12-07"
+  },
+  {
+    "ID": 236,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 138.35,
+    "Data_Acquisto": "2025-12-10"
+  },
+  {
+    "ID": 237,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 151.36,
+    "Data_Acquisto": "2025-12-13"
+  },
+  {
+    "ID": 238,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 164.37,
+    "Data_Acquisto": "2025-12-16"
+  },
+  {
+    "ID": 239,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 177.38,
+    "Data_Acquisto": "2025-12-19"
+  },
+  {
+    "ID": 240,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 190.39,
+    "Data_Acquisto": "2025-12-22"
+  },
+  {
+    "ID": 241,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 203.4,
+    "Data_Acquisto": "2025-12-25"
+  },
+  {
+    "ID": 242,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 216.41,
+    "Data_Acquisto": "2025-12-28"
+  },
+  {
+    "ID": 243,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 229.42,
+    "Data_Acquisto": "2025-12-31"
+  },
+  {
+    "ID": 244,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 242.43,
+    "Data_Acquisto": "2025-01-03"
+  },
+  {
+    "ID": 245,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 255.44,
+    "Data_Acquisto": "2025-01-06"
+  },
+  {
+    "ID": 246,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 268.45,
+    "Data_Acquisto": "2025-01-09"
+  },
+  {
+    "ID": 247,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 281.46,
+    "Data_Acquisto": "2025-01-12"
+  },
+  {
+    "ID": 248,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 294.47,
+    "Data_Acquisto": "2025-01-15"
+  },
+  {
+    "ID": 249,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 307.48,
+    "Data_Acquisto": "2025-01-18"
+  },
+  {
+    "ID": 250,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 320.49,
+    "Data_Acquisto": "2025-01-21"
+  },
+  {
+    "ID": 251,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 333.5,
+    "Data_Acquisto": "2025-01-24"
+  },
+  {
+    "ID": 252,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 346.51,
+    "Data_Acquisto": "2025-01-27"
+  },
+  {
+    "ID": 253,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 359.52,
+    "Data_Acquisto": "2025-01-30"
+  },
+  {
+    "ID": 254,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 372.53,
+    "Data_Acquisto": "2025-02-02"
+  },
+  {
+    "ID": 255,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 385.54,
+    "Data_Acquisto": "2025-02-05"
+  },
+  {
+    "ID": 256,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 398.55,
+    "Data_Acquisto": "2025-02-08"
+  },
+  {
+    "ID": 257,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 411.56,
+    "Data_Acquisto": "2025-02-11"
+  },
+  {
+    "ID": 258,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 424.57,
+    "Data_Acquisto": "2025-02-14"
+  },
+  {
+    "ID": 259,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 437.58,
+    "Data_Acquisto": "2025-02-17"
+  },
+  {
+    "ID": 260,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 450.59,
+    "Data_Acquisto": "2025-02-20"
+  },
+  {
+    "ID": 261,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 463.6,
+    "Data_Acquisto": "2025-02-23"
+  },
+  {
+    "ID": 262,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 476.61,
+    "Data_Acquisto": "2025-02-26"
+  },
+  {
+    "ID": 263,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 489.62,
+    "Data_Acquisto": "2025-03-01"
+  },
+  {
+    "ID": 264,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 12.63,
+    "Data_Acquisto": "2025-03-04"
+  },
+  {
+    "ID": 265,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 25.64,
+    "Data_Acquisto": "2025-03-07"
+  },
+  {
+    "ID": 266,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 38.65,
+    "Data_Acquisto": "2025-03-10"
+  },
+  {
+    "ID": 267,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 51.66,
+    "Data_Acquisto": "2025-03-13"
+  },
+  {
+    "ID": 268,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 64.67,
+    "Data_Acquisto": "2025-03-16"
+  },
+  {
+    "ID": 269,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 77.68,
+    "Data_Acquisto": "2025-03-19"
+  },
+  {
+    "ID": 270,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 90.69,
+    "Data_Acquisto": "2025-03-22"
+  },
+  {
+    "ID": 271,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 103.7,
+    "Data_Acquisto": "2025-03-25"
+  },
+  {
+    "ID": 272,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 116.71,
+    "Data_Acquisto": "2025-03-28"
+  },
+  {
+    "ID": 273,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 129.72,
+    "Data_Acquisto": "2025-03-31"
+  },
+  {
+    "ID": 274,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 142.73,
+    "Data_Acquisto": "2025-04-03"
+  },
+  {
+    "ID": 275,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 155.74,
+    "Data_Acquisto": "2025-04-06"
+  },
+  {
+    "ID": 276,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 168.75,
+    "Data_Acquisto": "2025-04-09"
+  },
+  {
+    "ID": 277,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 181.76,
+    "Data_Acquisto": "2025-04-12"
+  },
+  {
+    "ID": 278,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 194.77,
+    "Data_Acquisto": "2025-04-15"
+  },
+  {
+    "ID": 279,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 207.78,
+    "Data_Acquisto": "2025-04-18"
+  },
+  {
+    "ID": 280,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 220.79,
+    "Data_Acquisto": "2025-04-21"
+  },
+  {
+    "ID": 281,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 233.8,
+    "Data_Acquisto": "2025-04-24"
+  },
+  {
+    "ID": 282,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 246.81,
+    "Data_Acquisto": "2025-04-27"
+  },
+  {
+    "ID": 283,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 259.82,
+    "Data_Acquisto": "2025-04-30"
+  },
+  {
+    "ID": 284,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 272.83,
+    "Data_Acquisto": "2025-05-03"
+  },
+  {
+    "ID": 285,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 285.84,
+    "Data_Acquisto": "2025-05-06"
+  },
+  {
+    "ID": 286,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 298.85,
+    "Data_Acquisto": "2025-05-09"
+  },
+  {
+    "ID": 287,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 311.86,
+    "Data_Acquisto": "2025-05-12"
+  },
+  {
+    "ID": 288,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 324.87,
+    "Data_Acquisto": "2025-05-15"
+  },
+  {
+    "ID": 289,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 337.88,
+    "Data_Acquisto": "2025-05-18"
+  },
+  {
+    "ID": 290,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 350.89,
+    "Data_Acquisto": "2025-05-21"
+  },
+  {
+    "ID": 291,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 363.9,
+    "Data_Acquisto": "2025-05-24"
+  },
+  {
+    "ID": 292,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 376.91,
+    "Data_Acquisto": "2025-05-27"
+  },
+  {
+    "ID": 293,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 389.92,
+    "Data_Acquisto": "2025-05-30"
+  },
+  {
+    "ID": 294,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 402.93,
+    "Data_Acquisto": "2025-06-02"
+  },
+  {
+    "ID": 295,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 415.94,
+    "Data_Acquisto": "2025-06-05"
+  },
+  {
+    "ID": 296,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 428.95,
+    "Data_Acquisto": "2025-06-08"
+  },
+  {
+    "ID": 297,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 441.96,
+    "Data_Acquisto": "2025-06-11"
+  },
+  {
+    "ID": 298,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 454.97,
+    "Data_Acquisto": "2025-06-14"
+  },
+  {
+    "ID": 299,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 467.98,
+    "Data_Acquisto": "2025-06-17"
+  },
+  {
+    "ID": 300,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 479.99,
+    "Data_Acquisto": "2025-06-20"
+  },
+  {
+    "ID": 301,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 493.0,
+    "Data_Acquisto": "2025-06-23"
+  },
+  {
+    "ID": 302,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 16.01,
+    "Data_Acquisto": "2025-06-26"
+  },
+  {
+    "ID": 303,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 29.02,
+    "Data_Acquisto": "2025-06-29"
+  },
+  {
+    "ID": 304,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 42.03,
+    "Data_Acquisto": "2025-07-02"
+  },
+  {
+    "ID": 305,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 55.04,
+    "Data_Acquisto": "2025-07-05"
+  },
+  {
+    "ID": 306,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 68.05,
+    "Data_Acquisto": "2025-07-08"
+  },
+  {
+    "ID": 307,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 81.06,
+    "Data_Acquisto": "2025-07-11"
+  },
+  {
+    "ID": 308,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 94.07,
+    "Data_Acquisto": "2025-07-14"
+  },
+  {
+    "ID": 309,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 107.08,
+    "Data_Acquisto": "2025-07-17"
+  },
+  {
+    "ID": 310,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 120.09,
+    "Data_Acquisto": "2025-07-20"
+  },
+  {
+    "ID": 311,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 133.1,
+    "Data_Acquisto": "2025-07-23"
+  },
+  {
+    "ID": 312,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 146.11,
+    "Data_Acquisto": "2025-07-26"
+  },
+  {
+    "ID": 313,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 159.12,
+    "Data_Acquisto": "2025-07-29"
+  },
+  {
+    "ID": 314,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 172.13,
+    "Data_Acquisto": "2025-08-01"
+  },
+  {
+    "ID": 315,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 185.14,
+    "Data_Acquisto": "2025-08-04"
+  },
+  {
+    "ID": 316,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 198.15,
+    "Data_Acquisto": "2025-08-07"
+  },
+  {
+    "ID": 317,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 211.16,
+    "Data_Acquisto": "2025-08-10"
+  },
+  {
+    "ID": 318,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 224.17,
+    "Data_Acquisto": "2025-08-13"
+  },
+  {
+    "ID": 319,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 237.18,
+    "Data_Acquisto": "2025-08-16"
+  },
+  {
+    "ID": 320,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 250.19,
+    "Data_Acquisto": "2025-08-19"
+  },
+  {
+    "ID": 321,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 263.2,
+    "Data_Acquisto": "2025-08-22"
+  },
+  {
+    "ID": 322,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 276.21,
+    "Data_Acquisto": "2025-08-25"
+  },
+  {
+    "ID": 323,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 289.22,
+    "Data_Acquisto": "2025-08-28"
+  },
+  {
+    "ID": 324,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 302.23,
+    "Data_Acquisto": "2025-08-31"
+  },
+  {
+    "ID": 325,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 315.24,
+    "Data_Acquisto": "2025-09-03"
+  },
+  {
+    "ID": 326,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 328.25,
+    "Data_Acquisto": "2025-09-06"
+  },
+  {
+    "ID": 327,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 341.26,
+    "Data_Acquisto": "2025-09-09"
+  },
+  {
+    "ID": 328,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 354.27,
+    "Data_Acquisto": "2025-09-12"
+  },
+  {
+    "ID": 329,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 367.28,
+    "Data_Acquisto": "2025-09-15"
+  },
+  {
+    "ID": 330,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 380.29,
+    "Data_Acquisto": "2025-09-18"
+  },
+  {
+    "ID": 331,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 393.3,
+    "Data_Acquisto": "2025-09-21"
+  },
+  {
+    "ID": 332,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 406.31,
+    "Data_Acquisto": "2025-09-24"
+  },
+  {
+    "ID": 333,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 419.32,
+    "Data_Acquisto": "2025-09-27"
+  },
+  {
+    "ID": 334,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 432.33,
+    "Data_Acquisto": "2025-09-30"
+  },
+  {
+    "ID": 335,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 445.34,
+    "Data_Acquisto": "2025-10-03"
+  },
+  {
+    "ID": 336,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 458.35,
+    "Data_Acquisto": "2025-10-06"
+  },
+  {
+    "ID": 337,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 471.36,
+    "Data_Acquisto": "2025-10-09"
+  },
+  {
+    "ID": 338,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 484.37,
+    "Data_Acquisto": "2025-10-12"
+  },
+  {
+    "ID": 339,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 497.38,
+    "Data_Acquisto": "2025-10-15"
+  },
+  {
+    "ID": 340,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 20.39,
+    "Data_Acquisto": "2025-10-18"
+  },
+  {
+    "ID": 341,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 33.4,
+    "Data_Acquisto": "2025-10-21"
+  },
+  {
+    "ID": 342,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 46.41,
+    "Data_Acquisto": "2025-10-24"
+  },
+  {
+    "ID": 343,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 59.42,
+    "Data_Acquisto": "2025-10-27"
+  },
+  {
+    "ID": 344,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 72.43,
+    "Data_Acquisto": "2025-10-30"
+  },
+  {
+    "ID": 345,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 85.44,
+    "Data_Acquisto": "2025-11-02"
+  },
+  {
+    "ID": 346,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 98.45,
+    "Data_Acquisto": "2025-11-05"
+  },
+  {
+    "ID": 347,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 111.46,
+    "Data_Acquisto": "2025-11-08"
+  },
+  {
+    "ID": 348,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 124.47,
+    "Data_Acquisto": "2025-11-11"
+  },
+  {
+    "ID": 349,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 137.48,
+    "Data_Acquisto": "2025-11-14"
+  },
+  {
+    "ID": 350,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 150.49,
+    "Data_Acquisto": "2025-11-17"
+  },
+  {
+    "ID": 351,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 163.5,
+    "Data_Acquisto": "2025-11-20"
+  },
+  {
+    "ID": 352,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 176.51,
+    "Data_Acquisto": "2025-11-23"
+  },
+  {
+    "ID": 353,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 189.52,
+    "Data_Acquisto": "2025-11-26"
+  },
+  {
+    "ID": 354,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 202.53,
+    "Data_Acquisto": "2025-11-29"
+  },
+  {
+    "ID": 355,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 215.54,
+    "Data_Acquisto": "2025-12-02"
+  },
+  {
+    "ID": 356,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 228.55,
+    "Data_Acquisto": "2025-12-05"
+  },
+  {
+    "ID": 357,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 241.56,
+    "Data_Acquisto": "2025-12-08"
+  },
+  {
+    "ID": 358,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 254.57,
+    "Data_Acquisto": "2025-12-11"
+  },
+  {
+    "ID": 359,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 267.58,
+    "Data_Acquisto": "2025-12-14"
+  },
+  {
+    "ID": 360,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 280.59,
+    "Data_Acquisto": "2025-12-17"
+  },
+  {
+    "ID": 361,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 293.6,
+    "Data_Acquisto": "2025-12-20"
+  },
+  {
+    "ID": 362,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 306.61,
+    "Data_Acquisto": "2025-12-23"
+  },
+  {
+    "ID": 363,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 319.62,
+    "Data_Acquisto": "2025-12-26"
+  },
+  {
+    "ID": 364,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 332.63,
+    "Data_Acquisto": "2025-12-29"
+  },
+  {
+    "ID": 365,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 345.64,
+    "Data_Acquisto": "2025-01-01"
+  },
+  {
+    "ID": 366,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 358.65,
+    "Data_Acquisto": "2025-01-04"
+  },
+  {
+    "ID": 367,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 371.66,
+    "Data_Acquisto": "2025-01-07"
+  },
+  {
+    "ID": 368,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 384.67,
+    "Data_Acquisto": "2025-01-10"
+  },
+  {
+    "ID": 369,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 397.68,
+    "Data_Acquisto": "2025-01-13"
+  },
+  {
+    "ID": 370,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 410.69,
+    "Data_Acquisto": "2025-01-16"
+  },
+  {
+    "ID": 371,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 423.7,
+    "Data_Acquisto": "2025-01-19"
+  },
+  {
+    "ID": 372,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 436.71,
+    "Data_Acquisto": "2025-01-22"
+  },
+  {
+    "ID": 373,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 449.72,
+    "Data_Acquisto": "2025-01-25"
+  },
+  {
+    "ID": 374,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 462.73,
+    "Data_Acquisto": "2025-01-28"
+  },
+  {
+    "ID": 375,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 475.74,
+    "Data_Acquisto": "2025-01-31"
+  },
+  {
+    "ID": 376,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 488.75,
+    "Data_Acquisto": "2025-02-03"
+  },
+  {
+    "ID": 377,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 11.76,
+    "Data_Acquisto": "2025-02-06"
+  },
+  {
+    "ID": 378,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 24.77,
+    "Data_Acquisto": "2025-02-09"
+  },
+  {
+    "ID": 379,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 37.78,
+    "Data_Acquisto": "2025-02-12"
+  },
+  {
+    "ID": 380,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 50.79,
+    "Data_Acquisto": "2025-02-15"
+  },
+  {
+    "ID": 381,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 63.8,
+    "Data_Acquisto": "2025-02-18"
+  },
+  {
+    "ID": 382,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 76.81,
+    "Data_Acquisto": "2025-02-21"
+  },
+  {
+    "ID": 383,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 89.82,
+    "Data_Acquisto": "2025-02-24"
+  },
+  {
+    "ID": 384,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 102.83,
+    "Data_Acquisto": "2025-02-27"
+  },
+  {
+    "ID": 385,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 115.84,
+    "Data_Acquisto": "2025-03-02"
+  },
+  {
+    "ID": 386,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 128.85,
+    "Data_Acquisto": "2025-03-05"
+  },
+  {
+    "ID": 387,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 141.86,
+    "Data_Acquisto": "2025-03-08"
+  },
+  {
+    "ID": 388,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 154.87,
+    "Data_Acquisto": "2025-03-11"
+  },
+  {
+    "ID": 389,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 167.88,
+    "Data_Acquisto": "2025-03-14"
+  },
+  {
+    "ID": 390,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 180.89,
+    "Data_Acquisto": "2025-03-17"
+  },
+  {
+    "ID": 391,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 193.9,
+    "Data_Acquisto": "2025-03-20"
+  },
+  {
+    "ID": 392,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 206.91,
+    "Data_Acquisto": "2025-03-23"
+  },
+  {
+    "ID": 393,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 219.92,
+    "Data_Acquisto": "2025-03-26"
+  },
+  {
+    "ID": 394,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 232.93,
+    "Data_Acquisto": "2025-03-29"
+  },
+  {
+    "ID": 395,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 245.94,
+    "Data_Acquisto": "2025-04-01"
+  },
+  {
+    "ID": 396,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 258.95,
+    "Data_Acquisto": "2025-04-04"
+  },
+  {
+    "ID": 397,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 271.96,
+    "Data_Acquisto": "2025-04-07"
+  },
+  {
+    "ID": 398,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 284.97,
+    "Data_Acquisto": "2025-04-10"
+  },
+  {
+    "ID": 399,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 297.98,
+    "Data_Acquisto": "2025-04-13"
+  },
+  {
+    "ID": 400,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 309.99,
+    "Data_Acquisto": "2025-04-16"
+  },
+  {
+    "ID": 401,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 323.0,
+    "Data_Acquisto": "2025-04-19"
+  },
+  {
+    "ID": 402,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 336.01,
+    "Data_Acquisto": "2025-04-22"
+  },
+  {
+    "ID": 403,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 349.02,
+    "Data_Acquisto": "2025-04-25"
+  },
+  {
+    "ID": 404,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 362.03,
+    "Data_Acquisto": "2025-04-28"
+  },
+  {
+    "ID": 405,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 375.04,
+    "Data_Acquisto": "2025-05-01"
+  },
+  {
+    "ID": 406,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 388.05,
+    "Data_Acquisto": "2025-05-04"
+  },
+  {
+    "ID": 407,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 401.06,
+    "Data_Acquisto": "2025-05-07"
+  },
+  {
+    "ID": 408,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 414.07,
+    "Data_Acquisto": "2025-05-10"
+  },
+  {
+    "ID": 409,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 427.08,
+    "Data_Acquisto": "2025-05-13"
+  },
+  {
+    "ID": 410,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 440.09,
+    "Data_Acquisto": "2025-05-16"
+  },
+  {
+    "ID": 411,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 453.1,
+    "Data_Acquisto": "2025-05-19"
+  },
+  {
+    "ID": 412,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 466.11,
+    "Data_Acquisto": "2025-05-22"
+  },
+  {
+    "ID": 413,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 479.12,
+    "Data_Acquisto": "2025-05-25"
+  },
+  {
+    "ID": 414,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 492.13,
+    "Data_Acquisto": "2025-05-28"
+  },
+  {
+    "ID": 415,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 15.14,
+    "Data_Acquisto": "2025-05-31"
+  },
+  {
+    "ID": 416,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 28.15,
+    "Data_Acquisto": "2025-06-03"
+  },
+  {
+    "ID": 417,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 41.16,
+    "Data_Acquisto": "2025-06-06"
+  },
+  {
+    "ID": 418,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 54.17,
+    "Data_Acquisto": "2025-06-09"
+  },
+  {
+    "ID": 419,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 67.18,
+    "Data_Acquisto": "2025-06-12"
+  },
+  {
+    "ID": 420,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 80.19,
+    "Data_Acquisto": "2025-06-15"
+  },
+  {
+    "ID": 421,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 93.2,
+    "Data_Acquisto": "2025-06-18"
+  },
+  {
+    "ID": 422,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 106.21,
+    "Data_Acquisto": "2025-06-21"
+  },
+  {
+    "ID": 423,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 119.22,
+    "Data_Acquisto": "2025-06-24"
+  },
+  {
+    "ID": 424,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 132.23,
+    "Data_Acquisto": "2025-06-27"
+  },
+  {
+    "ID": 425,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 145.24,
+    "Data_Acquisto": "2025-06-30"
+  },
+  {
+    "ID": 426,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 158.25,
+    "Data_Acquisto": "2025-07-03"
+  },
+  {
+    "ID": 427,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 171.26,
+    "Data_Acquisto": "2025-07-06"
+  },
+  {
+    "ID": 428,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 184.27,
+    "Data_Acquisto": "2025-07-09"
+  },
+  {
+    "ID": 429,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 197.28,
+    "Data_Acquisto": "2025-07-12"
+  },
+  {
+    "ID": 430,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 210.29,
+    "Data_Acquisto": "2025-07-15"
+  },
+  {
+    "ID": 431,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 223.3,
+    "Data_Acquisto": "2025-07-18"
+  },
+  {
+    "ID": 432,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 236.31,
+    "Data_Acquisto": "2025-07-21"
+  },
+  {
+    "ID": 433,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 249.32,
+    "Data_Acquisto": "2025-07-24"
+  },
+  {
+    "ID": 434,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 262.33,
+    "Data_Acquisto": "2025-07-27"
+  },
+  {
+    "ID": 435,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 275.34,
+    "Data_Acquisto": "2025-07-30"
+  },
+  {
+    "ID": 436,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 288.35,
+    "Data_Acquisto": "2025-08-02"
+  },
+  {
+    "ID": 437,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 301.36,
+    "Data_Acquisto": "2025-08-05"
+  },
+  {
+    "ID": 438,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 314.37,
+    "Data_Acquisto": "2025-08-08"
+  },
+  {
+    "ID": 439,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 327.38,
+    "Data_Acquisto": "2025-08-11"
+  },
+  {
+    "ID": 440,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 340.39,
+    "Data_Acquisto": "2025-08-14"
+  },
+  {
+    "ID": 441,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 353.4,
+    "Data_Acquisto": "2025-08-17"
+  },
+  {
+    "ID": 442,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 366.41,
+    "Data_Acquisto": "2025-08-20"
+  },
+  {
+    "ID": 443,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 379.42,
+    "Data_Acquisto": "2025-08-23"
+  },
+  {
+    "ID": 444,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 392.43,
+    "Data_Acquisto": "2025-08-26"
+  },
+  {
+    "ID": 445,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 405.44,
+    "Data_Acquisto": "2025-08-29"
+  },
+  {
+    "ID": 446,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 418.45,
+    "Data_Acquisto": "2025-09-01"
+  },
+  {
+    "ID": 447,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 431.46,
+    "Data_Acquisto": "2025-09-04"
+  },
+  {
+    "ID": 448,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 444.47,
+    "Data_Acquisto": "2025-09-07"
+  },
+  {
+    "ID": 449,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 457.48,
+    "Data_Acquisto": "2025-09-10"
+  },
+  {
+    "ID": 450,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 470.49,
+    "Data_Acquisto": "2025-09-13"
+  },
+  {
+    "ID": 451,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 483.5,
+    "Data_Acquisto": "2025-09-16"
+  },
+  {
+    "ID": 452,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 496.51,
+    "Data_Acquisto": "2025-09-19"
+  },
+  {
+    "ID": 453,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 19.52,
+    "Data_Acquisto": "2025-09-22"
+  },
+  {
+    "ID": 454,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 32.53,
+    "Data_Acquisto": "2025-09-25"
+  },
+  {
+    "ID": 455,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 45.54,
+    "Data_Acquisto": "2025-09-28"
+  },
+  {
+    "ID": 456,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 58.55,
+    "Data_Acquisto": "2025-10-01"
+  },
+  {
+    "ID": 457,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 71.56,
+    "Data_Acquisto": "2025-10-04"
+  },
+  {
+    "ID": 458,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 84.57,
+    "Data_Acquisto": "2025-10-07"
+  },
+  {
+    "ID": 459,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 97.58,
+    "Data_Acquisto": "2025-10-10"
+  },
+  {
+    "ID": 460,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 110.59,
+    "Data_Acquisto": "2025-10-13"
+  },
+  {
+    "ID": 461,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 123.6,
+    "Data_Acquisto": "2025-10-16"
+  },
+  {
+    "ID": 462,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 136.61,
+    "Data_Acquisto": "2025-10-19"
+  },
+  {
+    "ID": 463,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 149.62,
+    "Data_Acquisto": "2025-10-22"
+  },
+  {
+    "ID": 464,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 162.63,
+    "Data_Acquisto": "2025-10-25"
+  },
+  {
+    "ID": 465,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 175.64,
+    "Data_Acquisto": "2025-10-28"
+  },
+  {
+    "ID": 466,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 188.65,
+    "Data_Acquisto": "2025-10-31"
+  },
+  {
+    "ID": 467,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 201.66,
+    "Data_Acquisto": "2025-11-03"
+  },
+  {
+    "ID": 468,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 214.67,
+    "Data_Acquisto": "2025-11-06"
+  },
+  {
+    "ID": 469,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 227.68,
+    "Data_Acquisto": "2025-11-09"
+  },
+  {
+    "ID": 470,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 240.69,
+    "Data_Acquisto": "2025-11-12"
+  },
+  {
+    "ID": 471,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 253.7,
+    "Data_Acquisto": "2025-11-15"
+  },
+  {
+    "ID": 472,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 266.71,
+    "Data_Acquisto": "2025-11-18"
+  },
+  {
+    "ID": 473,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 279.72,
+    "Data_Acquisto": "2025-11-21"
+  },
+  {
+    "ID": 474,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 292.73,
+    "Data_Acquisto": "2025-11-24"
+  },
+  {
+    "ID": 475,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 305.74,
+    "Data_Acquisto": "2025-11-27"
+  },
+  {
+    "ID": 476,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 318.75,
+    "Data_Acquisto": "2025-11-30"
+  },
+  {
+    "ID": 477,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 331.76,
+    "Data_Acquisto": "2025-12-03"
+  },
+  {
+    "ID": 478,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 344.77,
+    "Data_Acquisto": "2025-12-06"
+  },
+  {
+    "ID": 479,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 357.78,
+    "Data_Acquisto": "2025-12-09"
+  },
+  {
+    "ID": 480,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 370.79,
+    "Data_Acquisto": "2025-12-12"
+  },
+  {
+    "ID": 481,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 383.8,
+    "Data_Acquisto": "2025-12-15"
+  },
+  {
+    "ID": 482,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 396.81,
+    "Data_Acquisto": "2025-12-18"
+  },
+  {
+    "ID": 483,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 409.82,
+    "Data_Acquisto": "2025-12-21"
+  },
+  {
+    "ID": 484,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 422.83,
+    "Data_Acquisto": "2025-12-24"
+  },
+  {
+    "ID": 485,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 435.84,
+    "Data_Acquisto": "2025-12-27"
+  },
+  {
+    "ID": 486,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 448.85,
+    "Data_Acquisto": "2025-12-30"
+  },
+  {
+    "ID": 487,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 461.86,
+    "Data_Acquisto": "2025-01-02"
+  },
+  {
+    "ID": 488,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 474.87,
+    "Data_Acquisto": "2025-01-05"
+  },
+  {
+    "ID": 489,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 487.88,
+    "Data_Acquisto": "2025-01-08"
+  },
+  {
+    "ID": 490,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 10.89,
+    "Data_Acquisto": "2025-01-11"
+  },
+  {
+    "ID": 491,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 23.9,
+    "Data_Acquisto": "2025-01-14"
+  },
+  {
+    "ID": 492,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 36.91,
+    "Data_Acquisto": "2025-01-17"
+  },
+  {
+    "ID": 493,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 49.92,
+    "Data_Acquisto": "2025-01-20"
+  },
+  {
+    "ID": 494,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 62.93,
+    "Data_Acquisto": "2025-01-23"
+  },
+  {
+    "ID": 495,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 75.94,
+    "Data_Acquisto": "2025-01-26"
+  },
+  {
+    "ID": 496,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 88.95,
+    "Data_Acquisto": "2025-01-29"
+  },
+  {
+    "ID": 497,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 101.96,
+    "Data_Acquisto": "2025-02-01"
+  },
+  {
+    "ID": 498,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 114.97,
+    "Data_Acquisto": "2025-02-04"
+  },
+  {
+    "ID": 499,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 127.98,
+    "Data_Acquisto": "2025-02-07"
+  },
+  {
+    "ID": 500,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 139.99,
+    "Data_Acquisto": "2025-02-10"
+  },
+  {
+    "ID": 501,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 153.0,
+    "Data_Acquisto": "2025-02-13"
+  },
+  {
+    "ID": 502,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 166.01,
+    "Data_Acquisto": "2025-02-16"
+  },
+  {
+    "ID": 503,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 179.02,
+    "Data_Acquisto": "2025-02-19"
+  },
+  {
+    "ID": 504,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 192.03,
+    "Data_Acquisto": "2025-02-22"
+  },
+  {
+    "ID": 505,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 205.04,
+    "Data_Acquisto": "2025-02-25"
+  },
+  {
+    "ID": 506,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 218.05,
+    "Data_Acquisto": "2025-02-28"
+  },
+  {
+    "ID": 507,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 231.06,
+    "Data_Acquisto": "2025-03-03"
+  },
+  {
+    "ID": 508,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 244.07,
+    "Data_Acquisto": "2025-03-06"
+  },
+  {
+    "ID": 509,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 257.08,
+    "Data_Acquisto": "2025-03-09"
+  },
+  {
+    "ID": 510,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 270.09,
+    "Data_Acquisto": "2025-03-12"
+  },
+  {
+    "ID": 511,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 283.1,
+    "Data_Acquisto": "2025-03-15"
+  },
+  {
+    "ID": 512,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 296.11,
+    "Data_Acquisto": "2025-03-18"
+  },
+  {
+    "ID": 513,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 309.12,
+    "Data_Acquisto": "2025-03-21"
+  },
+  {
+    "ID": 514,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 322.13,
+    "Data_Acquisto": "2025-03-24"
+  },
+  {
+    "ID": 515,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 335.14,
+    "Data_Acquisto": "2025-03-27"
+  },
+  {
+    "ID": 516,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 348.15,
+    "Data_Acquisto": "2025-03-30"
+  },
+  {
+    "ID": 517,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 361.16,
+    "Data_Acquisto": "2025-04-02"
+  },
+  {
+    "ID": 518,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 374.17,
+    "Data_Acquisto": "2025-04-05"
+  },
+  {
+    "ID": 519,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 387.18,
+    "Data_Acquisto": "2025-04-08"
+  },
+  {
+    "ID": 520,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 400.19,
+    "Data_Acquisto": "2025-04-11"
+  },
+  {
+    "ID": 521,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 413.2,
+    "Data_Acquisto": "2025-04-14"
+  },
+  {
+    "ID": 522,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 426.21,
+    "Data_Acquisto": "2025-04-17"
+  },
+  {
+    "ID": 523,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 439.22,
+    "Data_Acquisto": "2025-04-20"
+  },
+  {
+    "ID": 524,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 452.23,
+    "Data_Acquisto": "2025-04-23"
+  },
+  {
+    "ID": 525,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 465.24,
+    "Data_Acquisto": "2025-04-26"
+  },
+  {
+    "ID": 526,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 478.25,
+    "Data_Acquisto": "2025-04-29"
+  },
+  {
+    "ID": 527,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 491.26,
+    "Data_Acquisto": "2025-05-02"
+  },
+  {
+    "ID": 528,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 14.27,
+    "Data_Acquisto": "2025-05-05"
+  },
+  {
+    "ID": 529,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 27.28,
+    "Data_Acquisto": "2025-05-08"
+  },
+  {
+    "ID": 530,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 40.29,
+    "Data_Acquisto": "2025-05-11"
+  },
+  {
+    "ID": 531,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 53.3,
+    "Data_Acquisto": "2025-05-14"
+  },
+  {
+    "ID": 532,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 66.31,
+    "Data_Acquisto": "2025-05-17"
+  },
+  {
+    "ID": 533,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 79.32,
+    "Data_Acquisto": "2025-05-20"
+  },
+  {
+    "ID": 534,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 92.33,
+    "Data_Acquisto": "2025-05-23"
+  },
+  {
+    "ID": 535,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 105.34,
+    "Data_Acquisto": "2025-05-26"
+  },
+  {
+    "ID": 536,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 118.35,
+    "Data_Acquisto": "2025-05-29"
+  },
+  {
+    "ID": 537,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 131.36,
+    "Data_Acquisto": "2025-06-01"
+  },
+  {
+    "ID": 538,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 144.37,
+    "Data_Acquisto": "2025-06-04"
+  },
+  {
+    "ID": 539,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 157.38,
+    "Data_Acquisto": "2025-06-07"
+  },
+  {
+    "ID": 540,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 170.39,
+    "Data_Acquisto": "2025-06-10"
+  },
+  {
+    "ID": 541,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 183.4,
+    "Data_Acquisto": "2025-06-13"
+  },
+  {
+    "ID": 542,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 196.41,
+    "Data_Acquisto": "2025-06-16"
+  },
+  {
+    "ID": 543,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 209.42,
+    "Data_Acquisto": "2025-06-19"
+  },
+  {
+    "ID": 544,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 222.43,
+    "Data_Acquisto": "2025-06-22"
+  },
+  {
+    "ID": 545,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 235.44,
+    "Data_Acquisto": "2025-06-25"
+  },
+  {
+    "ID": 546,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 248.45,
+    "Data_Acquisto": "2025-06-28"
+  },
+  {
+    "ID": 547,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 261.46,
+    "Data_Acquisto": "2025-07-01"
+  },
+  {
+    "ID": 548,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 274.47,
+    "Data_Acquisto": "2025-07-04"
+  },
+  {
+    "ID": 549,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 287.48,
+    "Data_Acquisto": "2025-07-07"
+  },
+  {
+    "ID": 550,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 300.49,
+    "Data_Acquisto": "2025-07-10"
+  },
+  {
+    "ID": 551,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 313.5,
+    "Data_Acquisto": "2025-07-13"
+  },
+  {
+    "ID": 552,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 326.51,
+    "Data_Acquisto": "2025-07-16"
+  },
+  {
+    "ID": 553,
+    "Nome": "Anna",
+    "Eta": 49,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 339.52,
+    "Data_Acquisto": "2025-07-19"
+  },
+  {
+    "ID": 554,
+    "Nome": "Luca",
+    "Eta": 56,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 352.53,
+    "Data_Acquisto": "2025-07-22"
+  },
+  {
+    "ID": 555,
+    "Nome": "Marco",
+    "Eta": 63,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 365.54,
+    "Data_Acquisto": "2025-07-25"
+  },
+  {
+    "ID": 556,
+    "Nome": "Sofia",
+    "Eta": 22,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 378.55,
+    "Data_Acquisto": "2025-07-28"
+  },
+  {
+    "ID": 557,
+    "Nome": "Giulia",
+    "Eta": 29,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 391.56,
+    "Data_Acquisto": "2025-07-31"
+  },
+  {
+    "ID": 558,
+    "Nome": "Matteo",
+    "Eta": 36,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 404.57,
+    "Data_Acquisto": "2025-08-03"
+  },
+  {
+    "ID": 559,
+    "Nome": "Sara",
+    "Eta": 43,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 417.58,
+    "Data_Acquisto": "2025-08-06"
+  },
+  {
+    "ID": 560,
+    "Nome": "Andrea",
+    "Eta": 50,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 430.59,
+    "Data_Acquisto": "2025-08-09"
+  },
+  {
+    "ID": 561,
+    "Nome": "Elena",
+    "Eta": 57,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 3,
+    "Prezzo_Euro": 443.6,
+    "Data_Acquisto": "2025-08-12"
+  },
+  {
+    "ID": 562,
+    "Nome": "Paolo",
+    "Eta": 64,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 5,
+    "Prezzo_Euro": 456.61,
+    "Data_Acquisto": "2025-08-15"
+  },
+  {
+    "ID": 563,
+    "Nome": "Chiara",
+    "Eta": 23,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 7,
+    "Prezzo_Euro": 469.62,
+    "Data_Acquisto": "2025-08-18"
+  },
+  {
+    "ID": 564,
+    "Nome": "Davide",
+    "Eta": 30,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 9,
+    "Prezzo_Euro": 482.63,
+    "Data_Acquisto": "2025-08-21"
+  },
+  {
+    "ID": 565,
+    "Nome": "Anna",
+    "Eta": 37,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 1,
+    "Prezzo_Euro": 495.64,
+    "Data_Acquisto": "2025-08-24"
+  },
+  {
+    "ID": 566,
+    "Nome": "Luca",
+    "Eta": 44,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 3,
+    "Prezzo_Euro": 18.65,
+    "Data_Acquisto": "2025-08-27"
+  },
+  {
+    "ID": 567,
+    "Nome": "Marco",
+    "Eta": 51,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 5,
+    "Prezzo_Euro": 31.66,
+    "Data_Acquisto": "2025-08-30"
+  },
+  {
+    "ID": 568,
+    "Nome": "Sofia",
+    "Eta": 58,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 7,
+    "Prezzo_Euro": 44.67,
+    "Data_Acquisto": "2025-09-02"
+  },
+  {
+    "ID": 569,
+    "Nome": "Giulia",
+    "Eta": 65,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 9,
+    "Prezzo_Euro": 57.68,
+    "Data_Acquisto": "2025-09-05"
+  },
+  {
+    "ID": 570,
+    "Nome": "Matteo",
+    "Eta": 24,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 1,
+    "Prezzo_Euro": 70.69,
+    "Data_Acquisto": "2025-09-08"
+  },
+  {
+    "ID": 571,
+    "Nome": "Sara",
+    "Eta": 31,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 3,
+    "Prezzo_Euro": 83.7,
+    "Data_Acquisto": "2025-09-11"
+  },
+  {
+    "ID": 572,
+    "Nome": "Andrea",
+    "Eta": 38,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 5,
+    "Prezzo_Euro": 96.71,
+    "Data_Acquisto": "2025-09-14"
+  },
+  {
+    "ID": 573,
+    "Nome": "Elena",
+    "Eta": 45,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 7,
+    "Prezzo_Euro": 109.72,
+    "Data_Acquisto": "2025-09-17"
+  },
+  {
+    "ID": 574,
+    "Nome": "Paolo",
+    "Eta": 52,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 9,
+    "Prezzo_Euro": 122.73,
+    "Data_Acquisto": "2025-09-20"
+  },
+  {
+    "ID": 575,
+    "Nome": "Chiara",
+    "Eta": 59,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 1,
+    "Prezzo_Euro": 135.74,
+    "Data_Acquisto": "2025-09-23"
+  },
+  {
+    "ID": 576,
+    "Nome": "Davide",
+    "Eta": 18,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 3,
+    "Prezzo_Euro": 148.75,
+    "Data_Acquisto": "2025-09-26"
+  },
+  {
+    "ID": 577,
+    "Nome": "Anna",
+    "Eta": 25,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 5,
+    "Prezzo_Euro": 161.76,
+    "Data_Acquisto": "2025-09-29"
+  },
+  {
+    "ID": 578,
+    "Nome": "Luca",
+    "Eta": 32,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 7,
+    "Prezzo_Euro": 174.77,
+    "Data_Acquisto": "2025-10-02"
+  },
+  {
+    "ID": 579,
+    "Nome": "Marco",
+    "Eta": 39,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 9,
+    "Prezzo_Euro": 187.78,
+    "Data_Acquisto": "2025-10-05"
+  },
+  {
+    "ID": 580,
+    "Nome": "Sofia",
+    "Eta": 46,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 1,
+    "Prezzo_Euro": 200.79,
+    "Data_Acquisto": "2025-10-08"
+  },
+  {
+    "ID": 581,
+    "Nome": "Giulia",
+    "Eta": 53,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 3,
+    "Prezzo_Euro": 213.8,
+    "Data_Acquisto": "2025-10-11"
+  },
+  {
+    "ID": 582,
+    "Nome": "Matteo",
+    "Eta": 60,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 5,
+    "Prezzo_Euro": 226.81,
+    "Data_Acquisto": "2025-10-14"
+  },
+  {
+    "ID": 583,
+    "Nome": "Sara",
+    "Eta": 19,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 7,
+    "Prezzo_Euro": 239.82,
+    "Data_Acquisto": "2025-10-17"
+  },
+  {
+    "ID": 584,
+    "Nome": "Andrea",
+    "Eta": 26,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 9,
+    "Prezzo_Euro": 252.83,
+    "Data_Acquisto": "2025-10-20"
+  },
+  {
+    "ID": 585,
+    "Nome": "Elena",
+    "Eta": 33,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 1,
+    "Prezzo_Euro": 265.84,
+    "Data_Acquisto": "2025-10-23"
+  },
+  {
+    "ID": 586,
+    "Nome": "Paolo",
+    "Eta": 40,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 3,
+    "Prezzo_Euro": 278.85,
+    "Data_Acquisto": "2025-10-26"
+  },
+  {
+    "ID": 587,
+    "Nome": "Chiara",
+    "Eta": 47,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 5,
+    "Prezzo_Euro": 291.86,
+    "Data_Acquisto": "2025-10-29"
+  },
+  {
+    "ID": 588,
+    "Nome": "Davide",
+    "Eta": 54,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 7,
+    "Prezzo_Euro": 304.87,
+    "Data_Acquisto": "2025-11-01"
+  },
+  {
+    "ID": 589,
+    "Nome": "Anna",
+    "Eta": 61,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 9,
+    "Prezzo_Euro": 317.88,
+    "Data_Acquisto": "2025-11-04"
+  },
+  {
+    "ID": 590,
+    "Nome": "Luca",
+    "Eta": 20,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 1,
+    "Prezzo_Euro": 330.89,
+    "Data_Acquisto": "2025-11-07"
+  },
+  {
+    "ID": 591,
+    "Nome": "Marco",
+    "Eta": 27,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 3,
+    "Prezzo_Euro": 343.9,
+    "Data_Acquisto": "2025-11-10"
+  },
+  {
+    "ID": 592,
+    "Nome": "Sofia",
+    "Eta": 34,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 5,
+    "Prezzo_Euro": 356.91,
+    "Data_Acquisto": "2025-11-13"
+  },
+  {
+    "ID": 593,
+    "Nome": "Giulia",
+    "Eta": 41,
+    "Citta": "Torino",
+    "Prodotto": "Webcam",
+    "Quantita": 7,
+    "Prezzo_Euro": 369.92,
+    "Data_Acquisto": "2025-11-16"
+  },
+  {
+    "ID": 594,
+    "Nome": "Matteo",
+    "Eta": 48,
+    "Citta": "Palermo",
+    "Prodotto": "Tastiera",
+    "Quantita": 9,
+    "Prezzo_Euro": 382.93,
+    "Data_Acquisto": "2025-11-19"
+  },
+  {
+    "ID": 595,
+    "Nome": "Sara",
+    "Eta": 55,
+    "Citta": "Milano",
+    "Prodotto": "Stampante",
+    "Quantita": 1,
+    "Prezzo_Euro": 395.94,
+    "Data_Acquisto": "2025-11-22"
+  },
+  {
+    "ID": 596,
+    "Nome": "Andrea",
+    "Eta": 62,
+    "Citta": "Bologna",
+    "Prodotto": "Cuffie",
+    "Quantita": 3,
+    "Prezzo_Euro": 408.95,
+    "Data_Acquisto": "2025-11-25"
+  },
+  {
+    "ID": 597,
+    "Nome": "Elena",
+    "Eta": 21,
+    "Citta": "Genova",
+    "Prodotto": "Mouse",
+    "Quantita": 5,
+    "Prezzo_Euro": 421.96,
+    "Data_Acquisto": "2025-11-28"
+  },
+  {
+    "ID": 598,
+    "Nome": "Paolo",
+    "Eta": 28,
+    "Citta": "Napoli",
+    "Prodotto": "Tablet",
+    "Quantita": 7,
+    "Prezzo_Euro": 434.97,
+    "Data_Acquisto": "2025-12-01"
+  },
+  {
+    "ID": 599,
+    "Nome": "Chiara",
+    "Eta": 35,
+    "Citta": "Firenze",
+    "Prodotto": "Monitor",
+    "Quantita": 9,
+    "Prezzo_Euro": 447.98,
+    "Data_Acquisto": "2025-12-04"
+  },
+  {
+    "ID": 600,
+    "Nome": "Davide",
+    "Eta": 42,
+    "Citta": "Roma",
+    "Prodotto": "Laptop",
+    "Quantita": 1,
+    "Prezzo_Euro": 459.99,
+    "Data_Acquisto": "2025-12-07"
+  }
+]
