@@ -1,6 +1,6 @@
 '''
 # === COME SI PRESENTA UN GITHUB === #
-• Hai 10 secodni per dire chi sei
+• Hai 10 secondi per dire chi sei
 • VANTATI → "Problema: ... | Come ho risolto: ..."
 • Repo con il tuo nome GitHub (identico)
 • Sempre in inglese
@@ -70,4 +70,14 @@
 'git pull origin main'
 #           ↓     ↓
 #    Nome Repo   Nome Branch
+
+# === RIMUOVERE === #
+'git rm file.py'
+'git commint -m "eliminato il file.py"'
+'git push'
+
+'git remote rm <remote-name>'
+
+# === CAMBIO REPO URL === #
+'git remote set-url origin https://github.com/Opus-code1/Corso_python.git'
 
