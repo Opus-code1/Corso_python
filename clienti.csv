@@ -1,0 +1,12 @@
+id_cliente;nome;citta;email
+1;Marco;Milano;a@x.it
+2;Giulia;milano;b@x.it
+3;Andrea;ROMA;
+4;Sarah;Roma;d@x.it
+5;Luca;Torino;e@x.it
+6;Pietro;torino;
+7;Antonio;Napoli;g@x.it
+8;Rossi;Napoli;h@x.it
+9;Verdi;Firenze;i@x.it
+10;Giulio;;j@x.it
+2;Aelxandro;Milano;b@x.it
