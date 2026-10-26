@@ -39,24 +39,9 @@ suggerimento, si come creare un grafico a torta usando matplotlib.
 • spiega riga per riga
 • dammi un esercizio pratico
 
+# === PRIMA DI USARE AI === #
+1- ADDESTRARE AI:
+    • identità: tu sei ... (python developer expert)
+    
+
 '''
-
-import matplotlib.pyplot as plt
-import random as r
-
-dati = []
-etich = []
-exp = []
-
-for d in range(r.randint(10, 30)):
-    dati.append(r.randint(1, 200))
-
-for e in range(len(dati)):
-    et = f"et_{e}"
-    etich.append(et)
-
-for i in range(len(dati)):
-    exp.append(r.uniform(0.1, 0.3))
-
-plt.pie(dati, labels=etich, autopct="%1.1f%%", explode=exp)
-plt.show()
